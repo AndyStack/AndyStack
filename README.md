@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've just started my journey into becoming a Cloud Developer. 
+
+Currently, I'm completing the Udacity Cloud Developer using Microsoft Azure.
