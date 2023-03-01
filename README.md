@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 I've just started my journey into becoming a Cloud Developer. 
 
-Currently, I'm completing the Udacity Cloud Developer using Microsoft Azure.
+Completed the Udacity Cloud Developer using Microsoft Azure.
+
+Currently I'm completing the Udacity Site Reliability Engineer Course.
